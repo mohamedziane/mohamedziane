@@ -10,8 +10,6 @@
 
 **𝗦ummary Of Qualifications [Under Construction]:**
   
-   * Use multiple APIs (Quandl API) to collect and wrangle the data (JSON or XML to Pandas DateFrame) to  
-        extract insights. Projects details [here](https://github.com/akthammomani/API-XML-JSON-TO-Pandas).
         
    * Create multiple advanced time series models using ARIMA/SARIMA for forecasting. Projects details [here](https://github.com/mohamedziane/Time-Series-Forecasting-ARIMA-SARIMA-MODELS).
    
