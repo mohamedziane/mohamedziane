@@ -1,14 +1,12 @@
-
-# Hi There! [Readme currently under construction]
-
 **Main Areas of Interest**
 
 * Data engineering with 10+ years of experience.
 * Cloud Engineering, ETL, Python, PySpark
+* Azure, AWS, GCP
 * Solutions Architecture
 * Data Science
 
-**𝗦ummary Of Qualifications [Under Construction]:**
+**𝗦ummary Of Projects:**
   
         
    * Create multiple advanced time series models using ARIMA/SARIMA for forecasting. Projects details [here](https://github.com/mohamedziane/Time-Series-Forecasting-ARIMA-SARIMA-MODELS).
