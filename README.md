@@ -46,26 +46,9 @@ I’d love to chat further, please feel free to reach me:
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/zianemohamed/)
 
 
-
-## 🥇 <ins>Featured<ins> 
-
-
-  
-
 ## 🔨 <ins> Technologies & Tools<ins> 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MicrosoftSQLserver-informational?style=flat&logo=MicrosoftSQLserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://www.credly.com/badges/f3aaf52d-5a84-47db-954b-046dac585619)
 
 ## 📈 <ins> Repositories & Projects Summary:<ins> 
 
