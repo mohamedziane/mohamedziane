@@ -46,15 +46,6 @@ I’d love to chat further, please feel free to reach me:
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/zianemohamed/)
 
 
-## 🔨 <ins> Technologies & Tools<ins> 
-
-![](https://www.credly.com/badges/f3aaf52d-5a84-47db-954b-046dac585619)
-
-## 📈 <ins> Repositories & Projects Summary:<ins> 
-
-
-## 🎯 <ins> Trainings & Certifications:<ins> 
-
 
 
 
